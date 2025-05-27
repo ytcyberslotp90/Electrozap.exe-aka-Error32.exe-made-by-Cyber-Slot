@@ -1,2 +1,4 @@
-# Electrozap.exe-aka-Error32.exe-made-by-Cyber-Slot
-Electrozap.exe
+Electrozap.exe 
+made in Powershell + C#
+It has GDI & Bytebeats
+have Fun with this fake virus 🤣
